@@ -51,9 +51,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Mohamad Riza" height="50" width="50" /></a>
-<a href="" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="Mohamad Riza" height="50" width="50" /></a>
-<a href="" target="blank"><img align="center" src="https://store-images.s-microsoft.com/image/apps.47495.13634052595610511.c45457c9-b4af-46b0-8e61-8d7c0aec3f56.a8b71481-8a43-465d-88d6-e63add92c112" alt="Mohamad Riza" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/mohammed-anas-925227255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Mohamad Riza" height="50" width="50" /></a>
+<a href="https://www.instagram.com/anas_aas_mhd?igsh=MWxjaGd3NXg2cnVmYg%3D%3D&utm_source=qr" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="anas" height="50" width="50" /></a>
+<a href="https://www.tiktok.com/@anasaas_?_r=1&_t=ZS-94QeWQAT75z" target="blank"><img align="center" src="https://store-images.s-microsoft.com/image/apps.47495.13634052595610511.c45457c9-b4af-46b0-8e61-8d7c0aec3f56.a8b71481-8a43-465d-88d6-e63add92c112" alt="Mohamad Riza" height="50" width="50" /></a>
 </p>
 
 ---
